@@ -1,6 +1,7 @@
 # Dancing Nouns
 
 ![Dancing Nouns Example](nouns-dancing.gif)
+
 (Early recording, it has a tiny bit more style now.)
 
 
